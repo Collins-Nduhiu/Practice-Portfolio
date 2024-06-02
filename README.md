@@ -1,2 +1,2 @@
 # Practice-Portfolio
-Skill practice portfolio
+Simple Potfolio site to pratice html and csss
